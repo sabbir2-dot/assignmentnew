@@ -1,0 +1,17 @@
+.logo{
+    height: 45px;
+    width: 80px;
+}
+/* .pic{
+    height: 200px;
+    width: 200px;
+} */
+.portfolio-container{
+    border: 2px dotted white;
+}
+.portfolio-container-2{
+    border: 2px dotted white;
+}
+.form-container{
+    border: 2px dotted white;
+}
